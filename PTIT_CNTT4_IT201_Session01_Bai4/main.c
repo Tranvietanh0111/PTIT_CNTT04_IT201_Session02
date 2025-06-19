@@ -23,17 +23,17 @@ int main(void)
     int position;
     do
     {
-        printf("nhap vitri muon sua:",n-1);
+        printf("nhap vitri muon sua:");
         scanf("%d", &position);
-    }while (position < 0 || position >=n);
+    }while (position < 0 || position >n);
     int new;
-    printf("nhap vi tri mơi:");
+    printf("nhap gia tri moi:");
     scanf("%d", &new);
-    arr[position] = new;
-    printf("mang sau khi cap nhst:");
+    arr[position-1] = new;
+    printf("mang sau khi cap nhat:");
     for (int i = 0; i < n; i++)
     {
-        printf("%d",arr[i]);
+        printf("%d  ",arr[i]);
     }
     free(arr);
     return 0;

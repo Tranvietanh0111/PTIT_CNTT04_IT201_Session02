@@ -27,7 +27,7 @@ int main(void)
     {
         if (arr[i]>max)
         {
-            printf("%d,arr[i]");
+            printf("%d  ",arr[i]);
             max=arr[i];
         }
 

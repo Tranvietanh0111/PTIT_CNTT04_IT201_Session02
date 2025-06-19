@@ -6,7 +6,7 @@ int main(void)
     int n;
     do
     {
-        printf("nhap so phan tu cua mang");
+        printf("nhap so phan tu cua mang: ");
         scanf("%d", &n);
     }while (n <=0 );
     int *arr = (int*)malloc(n * sizeof(int));
@@ -14,13 +14,13 @@ int main(void)
         printf("khong du bo nho\n");
         return 1;
     }
-    printf("nhap phan tu cua mang");
+    printf("nhap phan tu cua mang: ");
     for (int i = 0; i < n; i++)
     {
-        printf("phan thu thu %d",i+1);
+        printf("phan thu thu %d: ",i+1);
         scanf("%d", &arr[i]);
     }
-    int sum;
+    int sum=0;
     printf("nhap so can tim tong");
     scanf("%d", &sum);
     int flag=0;
@@ -35,7 +35,7 @@ int main(void)
             }
         }
     }
-    if (flag==1)
+    if (flag==0)
     {
         printf("không tồn tại 2 cặp số có tổng bằng %d",sum);
     }

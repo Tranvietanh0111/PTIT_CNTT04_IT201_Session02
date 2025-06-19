@@ -21,7 +21,7 @@ int main(void)
         scanf("%d", &arr[i]);
     }
     int number;
-    printf("so cna dem:");
+    printf("so can dem:");
     scanf("%d", &number);
     int count = 0;
     for (int i = 0; i < n; i++)
@@ -31,7 +31,7 @@ int main(void)
             count++;
         }
     }
-    printf("số %d xuât hien % lan",number,count);
+    printf("số %d xuât hien %d lan",number,count);
     free(arr);
     return 0;
 

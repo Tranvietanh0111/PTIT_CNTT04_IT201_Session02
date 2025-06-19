@@ -8,9 +8,9 @@
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -28,7 +28,21 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6a02524-7b5d-4aec-badb-cb943963319e" name="Changes" comment="" />
+    <list default="true" id="b6a02524-7b5d-4aec-badb-cb943963319e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai7/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai1/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai1/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai1/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai2/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai2/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai4/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai4/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai7/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT4_IT201_Session01_Bai7/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,15 +52,18 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
     <option name="minorVersion" value="1.2" />
     <option name="productBranch" value="Classic" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2yj5DDQwFddvdSod1ljlmjFahb1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,10 +76,13 @@
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/admin/OneDrive/Documents/PTIT_CNTT4_IT201_Session02/PTIT_CNTT4_IT201_Session01_Bai8",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,11 +92,6 @@
   }
 }]]></component>
   <component name="RunManager" selected="C/C++ File.main.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PTIT_CNTT4_IT201_Session01_Bai8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT4_IT201_Session01_Bai8" TARGET_NAME="PTIT_CNTT4_IT201_Session01_Bai8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PTIT_CNTT4_IT201_Session01_Bai8" RUN_TARGET_NAME="PTIT_CNTT4_IT201_Session01_Bai8">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -89,8 +104,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.main.c" />
       <item itemvalue="CMake Application.PTIT_CNTT4_IT201_Session01_Bai8" />
+      <item itemvalue="C/C++ File.main.c" />
     </list>
     <recent_temporary>
       <list>
@@ -106,6 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1750335019955</updated>
       <workItem from="1750335021214" duration="583000" />
+      <workItem from="1750348448416" duration="81000" />
     </task>
     <servers />
   </component>
